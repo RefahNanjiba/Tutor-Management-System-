@@ -1,4 +1,4 @@
-# Database-Project-Online-Tutor-Management-System-using-PHP-MySql-HTML-CSS
+#Tutor Management System
 A user interactive project. Back-end using XAMPP, front-end using HTML,CSS , PHP was used to connect front end and backend
 follow the following instruction to run the project:
 1.run xampp into your pc
